@@ -56,5 +56,13 @@
 				"node": "@node/punycode"
 			}
 		}
-	}
+	},
+  "wilton": {
+    "excludes": [
+      "tests",
+      "Gruntfile.js",
+      "bower.json",
+      "component.json"
+    ]
+  }
 }
