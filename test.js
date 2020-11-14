@@ -30,7 +30,4 @@ define([
     } else {
         print("test: punycode sanity");
     }
-    
-
-
 });
